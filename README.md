@@ -31,6 +31,7 @@ Analyze a card portfolio to help a financial institution:
 | Property | Value |
 |---|---|
 | Filename | `cards_data-selected-columns.csv` |
+| Source | https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets |
 | Rows | 6,146 |
 | Columns | 12 (10 used after removing sensitive columns) |
 | Source | Provided dataset |
